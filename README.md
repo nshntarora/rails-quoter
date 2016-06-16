@@ -1,9 +1,9 @@
-# Rails Quoter
+# Quoter
 
 Install the by adding the following line to your Gemfile.
 
 ```
-gem 'rails-quoter'
+gem 'quoter'
 ```
 Then all you have to do is add the following line on the page you want the quotes to appear.
 
