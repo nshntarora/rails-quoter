@@ -30,6 +30,6 @@ I personally recommend adding the code to a partial so that the quote only loads
 
 Special thanks to signed0's [gist] from where I took the 102 quotes you'll find the quotesDB module.
 
-If you'd like to contribute the next thing on my list is to use the **Wikiquote API** to server quotes about any topic. Start with that.
+If you'd like to contribute the next thing on my list is to use the **Wikiquote API** to serve quotes about any topic. Start with that.
 
 [gist]: <https://gist.github.com/signed0/d70780518341e1396e11>
