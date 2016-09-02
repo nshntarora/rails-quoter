@@ -1,6 +1,6 @@
 # Quoter
 
-Install the by adding the following line to your Gemfile.
+Install the gem by adding the following line to your Gemfile.
 
 ```
 gem 'quoter'
