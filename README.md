@@ -8,7 +8,7 @@ gem 'quoter'
 Then all you have to do is add the following line on the page you want the quotes to appear.
 
 ```
-<% quote_something %>
+<%= quote_something %>
 ```
 
 It will return a random quote in the following HTML markup.
